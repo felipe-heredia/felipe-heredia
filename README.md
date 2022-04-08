@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, eu sou felipesuri! 👋
 
-<!--
-**felipesuri/felipesuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Trabalho atualmente como Freelancer em Vue.js.
 
-Here are some ideas to get you started:
+🇧🇷 Morando no Brasil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quais tecnologias eu trabalho? 👨‍💻
+
+Trabalho atualmente com Vue.js e NodeJS. Minha maior especialização está sendo em Vue.js nesse momento
+
+🚀 Produzo conteúdos para o meu [blog](https://felipesuri.com)
+
+### Me encontre pela internet 🌎
+
+🚀 [Site](https://felipesuri.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/felipesuri/)
