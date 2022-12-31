@@ -84,6 +84,7 @@ sWJe5FRVQiIGMlmzAMU3HnPfdltOZQu2q0o=
 =N9LU
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-<details>
+</details>
+<br>
 
 Made with :purple_heart: by felipesuri!
