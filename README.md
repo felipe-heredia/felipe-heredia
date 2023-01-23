@@ -1,12 +1,12 @@
 ## Hey, I'm felipesuri! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Software Engineer at [isNewDigital Tech](https://isnewdtech.com.br). I work with Nest.js, Vue.js and a little of Laravel.
+I'm a Software Engineer. I work with Nest.js, Vue.js and a little of Laravel.
 
 🇧🇷 Living in Brazil!
 
 <div align="center" width="100%" style="margin: 2rem 0;">
   <img width="70%" src="https://streak-stats.demolab.com?user=felipesuri&theme=vue-dark&hide_border=true&border_radius=35&date_format=M%20j%5B%2C%20Y%5D" alt="My current streak" title="My current streak" />
-</center>
+</div>
 
 ### Skill set :muscle:
 
