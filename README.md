@@ -4,7 +4,7 @@ I'm a Software Engineer at [isNewDigital Tech](https://isnewdtech.com.br). I wor
 
 🇧🇷 Living in Brazil!
 
-<center style="margin: 2rem 0;">
+<div align="center" width="100%" style="margin: 2rem 0;">
   <img width="70%" src="https://streak-stats.demolab.com?user=felipesuri&theme=vue-dark&hide_border=true&border_radius=35&date_format=M%20j%5B%2C%20Y%5D" alt="My current streak" title="My current streak" />
 </center>
 
