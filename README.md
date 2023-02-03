@@ -42,7 +42,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Tools**
 
-<img title="ArchLinux" alt="ArchLinux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">|<img title="Lunarvim" alt="Lunarvim" width="40px" src="https://www.lunarvim.org/img/lunarvim_icon.png">|<img title="git" alt="git" width="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">|<img title="Algolia" alt="Algolia" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/algolia/algolia.png">
+<img title="ArchLinux" alt="ArchLinux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">|<img title="Vim" alt="Vim" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg">|<img title="git" alt="git" width="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">|<img title="PNPM" alt="PNPM" width="50px" src="https://raw.githubusercontent.com/pnpm/pnpm.github.io/main/static/img/logos/pnpm-light.svg">
 |--|--|--|--|
 
 ## Let's Connect :handshake:
