@@ -2,6 +2,8 @@
 
 Engenheiro de Software, trabalho com Nest.js Vue.js e um pouco de Laravel.
 
+Working at Interstar, using React.js and Nest.js.
+
 🇧🇷 Morando no Brasil!
 
 <div align="center" width="100%" style="margin: 2rem 0;">
