@@ -54,10 +54,7 @@ These are some of the major technologies that I use or have worked on in the pas
 </a>
 
 <a href="https://felipesuri.com" style="margin-left: 0.5rem;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#bdb2ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="3" y="4" width="18" height="12" rx="2" ry="2"></rect>
-    <line x1="2" y1="20" x2="22" y2="20"></line>
-  </svg>
+  <img title="My website" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">
 </a>
 
 <details>
