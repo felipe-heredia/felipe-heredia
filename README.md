@@ -53,9 +53,11 @@ These are some of the major technologies that I use or have worked on in the pas
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" width="40">
 </a>
 
-<a href="https://felipesuri.com" style="margin-left: 0.5rem;">
+<a href="https://felipesuri.com">
   <img title="My website" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">
 </a>
+
+<br>
 
 <details>
   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
