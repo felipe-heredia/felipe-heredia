@@ -9,7 +9,7 @@ Working at Interstar, using React.js and Nest.js.
 🇧🇷 Living in Brazil!
 
 <div align="center" width="100%" style="margin: 2rem 0;">
-  <img width="85%" src="https://streak-stats.demolab.com?user=felipesuri&theme=vue-dark&hide_border=true&border_radius=35&date_format=M%20j%5B%2C%20Y%5D" alt="My current streak" title="My current streak" />
+  <img width="85%" src="https://streak-stats.demolab.com?user=felipe-heredia&theme=vue-dark&hide_border=true&border_radius=35&date_format=M%20j%5B%2C%20Y%5D" alt="My current streak" title="My current streak" />
 </div>
 
 ### Skill set :muscle:
