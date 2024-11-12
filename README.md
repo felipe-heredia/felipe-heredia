@@ -1,10 +1,8 @@
-## Hey, I'm felipesuri! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hey, I'm Felipe Heredia! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Software Engineer. I work with Nest.js, Vue.js and a little of Laravel.
+I'm a Software Engineer. I work with Nest.js and React.
 
-Working at Interstar, using React.js and Nest.js.
-
-[🇧🇷 Versão em Português](/README_PT.md)
+Working at Coopercompany, using React.js and Nest.js.
 
 🇧🇷 Living in Brazil!
 
@@ -18,24 +16,24 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png">
-|--|--|--|
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png">|<img alt="GoLang" title="GoLang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+|--|--|--|--|
 
 **Frontend development**
 
-<img title="Vue.js" alt="Vue.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">|<img title="NuxtJS" alt="NuxtJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg">|<img title="TailwindCSS" src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" width="40px" alt="TailwindCSS">|<img title="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40px" alt="Sass">
-|--|--|--|--|--|--|
+<img title="Vue.js" alt="Vue.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">|<img title="NuxtJS" alt="NuxtJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg">|
+|--|--|--|--|
 
 **Backend development**
 
-<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="NestJS" alt="NestJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">|<img title="Kafka" alt="Kafka" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apachekafka/apachekafka-original.svg">|<img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg">|<img title="NGINX" alt="NGINX" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg">
-|--|--|--|--|--|
+<img title="NestJS" alt="NestJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg">|<img title="NGINX" alt="NGINX" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg">
+|--|--|--|--|
 
 
 **DevOps**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Netlify" alt="Netlify" width="40px" src="https://app.netlify.com/favicon-32x32.png">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40px">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">|<img title="Jenkins" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg">
-|--|--|--|--|--|
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Netlify" alt="Netlify" width="40px" src="https://app.netlify.com/favicon-32x32.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
+|--|--|--|
 
 **Databases**
 
@@ -44,8 +42,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Tools**
 
-<img title="ArchLinux" alt="ArchLinux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">|<img title="Vim" alt="Vim" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg">|<img title="git" alt="git" width="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">|<img title="PNPM" alt="PNPM" width="50px" src="https://raw.githubusercontent.com/pnpm/pnpm.github.io/main/static/img/logos/pnpm-light.svg">
-|--|--|--|--|
+<img title="ArchLinux" alt="ArchLinux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">|<img title="Vim" alt="Vim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg">|<img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+|--|--|--|
 
 ## Let's Connect :handshake:
 
