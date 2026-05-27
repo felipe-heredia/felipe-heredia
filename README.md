@@ -1,65 +1,57 @@
-## Hey, I'm Felipe Heredia! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hey, I'm Felipe Heredia! 👋
 
-I'm a Software Engineer. I work with Nest.js and React.
+I'm a Senior Backend Developer from Brazil, specializing in building scalable,
+resilient APIs and distributed systems. I care deeply about system architecture
+and the engineering culture that surrounds it, such as rigorous code reviews,
+sustainable practices and software that's built to last.
 
-Working at Coopercompany, using React.js and Nest.js.
+Currently working as a Senior Software Engineer at Coopercompany, and exploring
+**Golang** and **Elixir** for infrastructure and high-concurrency systems on
+the side.
 
-🇧🇷 Living in Brazil!
+I also write about engineering and life on [my blog](https://felipeheredia.com).
 
-<div align="center" width="100%" style="margin: 2rem 0;">
-  <img width="85%" src="https://streak-stats.demolab.com?user=felipe-heredia&theme=vue-dark&hide_border=true&border_radius=35&date_format=M%20j%5B%2C%20Y%5D" alt="My current streak" title="My current streak" />
-</div>
+### Tech Stack
 
-### Skill set :muscle:
+**Core**
 
-These are some of the major technologies that I use or have worked on in the past:
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
 
-**Programming Languages**
+**Also working with**
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png">|<img alt="GoLang" title="GoLang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-|--|--|--|--|
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+</p>
 
-**Frontend development**
+**Exploring**
 
-<img title="Vue.js" alt="Vue.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">|<img title="NuxtJS" alt="NuxtJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg">|
-|--|--|--|--|
+<p>
+  <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
+</p>
 
-**Backend development**
+## Let's Connect
 
-<img title="NestJS" alt="NestJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg">|<img title="NGINX" alt="NGINX" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg">
-|--|--|--|--|
-
-
-**DevOps**
-
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Netlify" alt="Netlify" width="40px" src="https://app.netlify.com/favicon-32x32.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
-|--|--|--|
-
-**Databases**
-
-<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://www.mongodb.com/assets/images/global/favicon.ico">|<img title="Redis" alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg">
-|--|--|--|
-
-**Tools**
-
-<img title="ArchLinux" alt="ArchLinux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">|<img title="Vim" alt="Vim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg">|<img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-|--|--|--|
-
-## Let's Connect :handshake:
-
-<a href="https://linkedin.com/in/felipesuri">
+<a href="https://linkedin.com/in/f-heredia">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" width="40">
 </a>
 
-<a href="https://felipesuri.com">
-  <img title="My website" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">
+<a href="https://felipeheredia.com" style="margin-left:8px">
+  <img title="My website" width="28" src="https://felipeheredia.com/favicon.svg">
 </a>
 
-<br>
-
-<details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
-  <br/>
+<details style="margin-top:20px">
+  <summary>🔒 PGP Public Key</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -104,7 +96,5 @@ sWJe5FRVQiIGMlmzAMU3HnPfdltOZQu2q0o=
 =N9LU
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-</details>
-<br>
 
-Made with :purple_heart: by felipesuri!
+</details>
