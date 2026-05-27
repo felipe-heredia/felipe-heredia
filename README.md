@@ -46,11 +46,11 @@ I also write about engineering and life on [my blog](https://felipeheredia.com).
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" width="40">
 </a>
 
-<a href="https://felipeheredia.com" style="margin-left:8px">
+<a href="https://felipeheredia.com">
   <img title="My website" width="28" src="https://felipeheredia.com/favicon.svg">
 </a>
 
-<details style="margin-top:20px">
+<details>
   <summary>🔒 PGP Public Key</summary>
 
 ```
